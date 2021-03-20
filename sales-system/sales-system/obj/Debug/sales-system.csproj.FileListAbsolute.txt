@@ -1,0 +1,7 @@
+C:\Users\JCAO\Documents\GitHub\sales-system\sales-system\sales-system\bin\Debug\sales-system.exe.config
+C:\Users\JCAO\Documents\GitHub\sales-system\sales-system\sales-system\bin\Debug\sales-system.exe
+C:\Users\JCAO\Documents\GitHub\sales-system\sales-system\sales-system\bin\Debug\sales-system.pdb
+C:\Users\JCAO\Documents\GitHub\sales-system\sales-system\sales-system\obj\Debug\sales-system.csprojAssemblyReference.cache
+C:\Users\JCAO\Documents\GitHub\sales-system\sales-system\sales-system\obj\Debug\sales-system.csproj.CoreCompileInputs.cache
+C:\Users\JCAO\Documents\GitHub\sales-system\sales-system\sales-system\obj\Debug\sales-system.exe
+C:\Users\JCAO\Documents\GitHub\sales-system\sales-system\sales-system\obj\Debug\sales-system.pdb
